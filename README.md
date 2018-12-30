@@ -1,2 +1,3 @@
 # my_first_game
-test instance to explore github usage
+
+Hi this is an early test of github... hopefully I can start using this!
